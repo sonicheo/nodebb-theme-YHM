@@ -1,6 +1,6 @@
 {
-    "id": "test",
+    "id": "yhm-nodebb-theme",
     "name": "My Theme Name",
     "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-quickstart"
+    "url": "https://github.com/sonicheo/yhm-nodebb-theme"
 }
