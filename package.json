@@ -28,17 +28,18 @@
     "eslint-plugin-import": "2.22.1",
     "husky": "5.0.9",
     "lint-staged": "10.5.4"
-  }
-}
-"author": {
+  },
+  "author": {
     "name": "Your Name",
     "email": "Your Email",
     "url": "Your website"
-},
-"repository": {
-    "type": "git",
-    "url": "https://github.com/sonicheo/nodebb-theme-quickstart"
-},
-"bugs": {
-    "url": "https://github.com/sonicheo/nodebb-theme-quickstart/issues"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/sonicheo/nodebb-theme-quickstart"
+  },
+  "bugs": {
+      "url": "https://github.com/sonicheo/nodebb-theme-quickstart/issues"
+  }
 }
+
