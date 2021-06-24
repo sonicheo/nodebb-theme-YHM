@@ -15,4 +15,5 @@
 $(document).ready(function() {
 	// Your code goes here
 	<h1>ssdlfdssssssssssssssssssssssssssssssssssssssssflkj</h1>
+	console.log("Test is working!")
 });
