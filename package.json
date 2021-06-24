@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "yhm-nodebb-theme",
   "version": "0.1.0",
   "description": "Enter a description here",
   "main": "theme.less",
@@ -36,10 +36,10 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/sonicheo/nodebb-theme-quickstart"
+      "url": "https://github.com/sonicheo/yhm-nodebb-theme"
   },
   "bugs": {
-      "url": "https://github.com/sonicheo/nodebb-theme-quickstart/issues"
+      "url": "https://github.com/sonicheo/yhm-nodebb-theme/issues"
   }
 }
 
