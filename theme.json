@@ -1,6 +1,8 @@
 {
     "id": "yhm-nodebb-theme",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/sonicheo/yhm-nodebb-theme"
+    "name": "YHM Theme",
+    "description": "Changes Navbar",
+    "url": "https://github.com/sonicheo/yhm-nodebb-theme",
+    "screenshot": "screenshot.png",
+    "baseTheme": "nodebb-theme-persona"
 }
