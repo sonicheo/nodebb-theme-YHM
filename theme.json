@@ -1,8 +1,7 @@
 {
-    "id": "nodebb-theme-YHM",
-    "name": "YHM Theme",
-    "description": "Changes Navbar",
-    "url": "https://github.com/sonicheo/yhm-nodebb-theme",
-    "screenshot": "screenshot.png",
-    "baseTheme": "nodebb-theme-persona"
+    "id": "nodebb-theme-persona",
+    "name": "Persona",
+    "description": "The default theme for NodeBB. Uses a standard approach to forum design.",
+    "url": "https://github.com/psychobunny/nodebb-theme-persona",
+    "screenshot": "screenshot.png"
 }
